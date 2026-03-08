@@ -23,3 +23,10 @@ Proportional (P) control was then implemented with the aim of reducing the veloc
 
 Outcome
 The forward motion drift had reduced slightly, although small cumulative error remains as on P control was implemented. Integral control will be added to compensate for the accumulated drift over longer distances.
+Project Overview
+System Architecture
+Hardware
+Software
+How to Run
+Images / CAD
+Future Improvements
